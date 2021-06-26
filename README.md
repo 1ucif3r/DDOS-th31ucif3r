@@ -10,16 +10,14 @@ DDOS Archive  (Scanners, BotNets (Mirai and QBot Premium &amp; Normal and more),
   <a href="https://www.instagram.com/th3_1ucif3r"><img title="Made in INDIA" src="https://img.shields.io/badge/MADE%20IN-INDIA-SCRIPT?colorA=%23ff8100&colorB=%23017e40&colorC=%23ff0000&style=for-the-badge"></a>
   </p>
   
-  <p align="center">
-  <img src="https://github.com/D4RK-4RMY/DARKARMY/blob/main/logo.png" alt=" Logo" />
-</p>
+ 
 
 
 
 
   <br>
   
-  ### <p align="center">DARKARMY<p align="center">
+  ### <p align="center">1ucif3r Achives<p align="center">
 <p align=center>
   <a href="https://www.instagram.com/th3_1ucif3r"><img title="Open Source" src="https://img.shields.io/badge/Open%20Source-%E2%99%A5-red" ></a>
   <a href="https://www.instagram.com/th3_1ucif3r"><img title="GitHub version" src="https://d25lcipzij17d.cloudfront.net/badge.svg?id=gh&type=6&v=1.0&x2=0" ></a>
@@ -36,16 +34,14 @@ DDOS Archive  (Scanners, BotNets (Mirai and QBot Premium &amp; Normal and more),
  
 
   
-<p align="center">
-  <img src="https://github.com/D4RK-4RMY/DARKARMY/blob/main/darkarmy.png" alt="darkarmy Logo"/>
-</p>  
-  
-  
-  ### Development By :
 
-Developer / Author: [D4RK4RMY](https://github.com/D4RK-4RMY)
+  
+  
+  ### Credit To :
+
+Credit: [R00tS3c](https://github.com/R00tS3c)
 
 ### <h2 align="center">😈 Visit 😈 </h2>
 <p align="center">
-<a href="https://darkarmy.live/"><img title="D4RK4RMY" src="https://img.shields.io/badge/D4RK4RMY-%23E4405F.svg?&style=for-the-badge&logo=web&logoColor=white"></a>
+<a href="https://www.instagram.com/th3_1ucif3r/"><img title="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
 </p>
